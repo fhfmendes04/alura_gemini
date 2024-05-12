@@ -10,3 +10,5 @@ bibliotecas:  generativeai, streamlit, FAISS e langchain.
 Contem 3 formulários. O primeiro para fazer upload de pdf ou digitar o texto para acessar
 diretamente o gemini para várias ações. O segundo para descrever uma figura e o último para
 conversar com seu pdf para obter informações dele.
+
+Deve-se cria um arquivo .env com API_key='sua api_key' e fazer upload no colab.
